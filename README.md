@@ -1,7 +1,7 @@
 # Microbit project
 Reference URL's:
 
-  - 
+  - https://microbit-micropython.readthedocs.io/en/latest/audio.html
 
   -
 
@@ -15,5 +15,5 @@ Number of __SENSORS USED__:
 
   -
   
-Screenshots of code:
+Screenshots of __CODE__:
 
