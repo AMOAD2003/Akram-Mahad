@@ -13,7 +13,7 @@ Description of __CODE__:
   
   __SENSORS and CHARACTERS USED__:
 
-  -The python code we have develpoed uses the following to be carried out:
+  - The python code we have develpoed uses the following to be carried out:
   
     1) Processor
     
@@ -28,14 +28,14 @@ Description of __CODE__:
   
 Screenshots of __CODE__:
 
-  -
+  - 
   
 __CODE__ and test:
 
-  -
+  - 
   
 Ideas for expansion:
 
-  -
+  - 
   
   
