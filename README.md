@@ -14,11 +14,17 @@ Description of __CODE__:
   __SENSORS and CHARACTERS USED__:
 
   -The python code we have develpoed uses the following to be carried out:
+  
     1) Processor
+    
     2) LED lights
+    
     3) USB connector
+    
     4) Wire
+    
     5) Output audio (speaker or heaphones)
+    
   
 Screenshots of __CODE__:
 
