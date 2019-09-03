@@ -28,8 +28,9 @@ Description of __CODE__:
   
 Screenshots of __CODE__:
 ![Pic](https://github.com/AMOAD2003/Akram-Mahad/blob/master/unnamed.jpg "Optional title")
-  - 
-  
+![Pic](https://github.com/AMOAD2003/Akram-Mahad/blob/master/unnamed%20(2).jpg "Optional title")
+![Pic](https://github.com/AMOAD2003/Akram-Mahad/blob/master/unnamed.jpg "Optional title") 
+
 __CODE__ and test:
 
   - 
