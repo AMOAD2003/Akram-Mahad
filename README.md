@@ -28,6 +28,10 @@ __code__:
     
     5) Output audio (speaker or heaphones)
     
+    6) Computer
+    
+    7) Microbit
+    
   
 Screenshots of __CODE__:
 ![Pic](https://github.com/AMOAD2003/Akram-Mahad/blob/master/unnamed.jpg "import music")
