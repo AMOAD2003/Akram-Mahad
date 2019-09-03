@@ -31,7 +31,7 @@ Screenshots of __CODE__:
 
 ![Pic](https://github.com/AMOAD2003/Akram-Mahad/blob/master/unnamed%20(2).jpg "Optional title")
 
-![Pic](https://github.com/AMOAD2003/Akram-Mahad/blob/master/unnamed.jpg "Optional title") 
+![Pic](https://github.com/AMOAD2003/Akram-Mahad/blob/master/unnamed%20(1).jpg"Optional title") 
 
 __CODE__ and test:
   - to test the code to see if it worked properly we used a home-made headphone system where we used two wires and placed them on the jack of the headphones cable and then connected it to the ground and 0 ports on the microbit which allowed us to hear the different tones that we programmed it to produce.
