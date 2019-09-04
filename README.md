@@ -1,4 +1,6 @@
 # Microbit project
+By Caleb and Akram
+
 Reference URL's:
 
   - https://microbit-micropython.readthedocs.io/en/latest/audio.html
