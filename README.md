@@ -11,7 +11,7 @@ Reference URL's:
 
 Description of __CODE__:
 
-  - We have developed code using python that is run on the microbit to play different sounds and tone in various sequences to oveall create a beat to your ears, you will have to connect the microbit to an output audio device such as headphones of speakers.
+  - We have written some code using python that is run on the microbit to play different sounds and tone in various sequences to overall create a beat for your ears, you will have to connect the microbit to an output audio device such as headphones of speakers.throughout the programme when running we have made various displays using the LED lights on the microbit.
   
 __code__:
 
